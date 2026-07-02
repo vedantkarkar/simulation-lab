@@ -1,0 +1,18 @@
+# Compiled executables
+a.out
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# Build directories
+build/
+cmake-build-*/
+
+# Editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
