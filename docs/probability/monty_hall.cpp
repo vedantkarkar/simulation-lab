@@ -2,6 +2,7 @@
 #include <iomanip>
 #include <random>
 #include <exception>
+#include <cmath>
 
 class MontyHallSolution {
     public: 
